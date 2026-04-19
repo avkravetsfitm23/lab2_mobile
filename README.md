@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Концепт-документ гри  [Розписані кроки виконання](https://docs.google.com/document/d/13mkiB82BCR8oj70FS-_Kwq2y3eLFvlrV/edit?usp=sharing&ouid=116799670681453774466&rtpof=true&sd=true)
 # Flappy Escape
 
@@ -103,3 +104,6 @@
   - побити власний рекорд
   - пролетіти більше труб
   - вижити довше
+=======
+# lab2_mobile
+>>>>>>> 86de95326db38f0e9d65f0f0885c1ea7e6aefe87
