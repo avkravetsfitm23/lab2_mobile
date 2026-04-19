@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Концепт-документ гри  [Розписані кроки виконання](https://docs.google.com/document/d/13mkiB82BCR8oj70FS-_Kwq2y3eLFvlrV/edit?usp=sharing&ouid=116799670681453774466&rtpof=true&sd=true)
+# Концепт-документ гри  [Розписані кроки виконання](https://docs.google.com/document/d/1FW_NhCS0WzzcK8h5eQRmOwQnDpobCmUi/edit?usp=sharing&ouid=109151315477108669910&rtpof=true&sd=true)
 # Flappy Escape
 
 **Лабораторна робота №2 — Основи скриптування**
